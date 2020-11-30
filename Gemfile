@@ -3,7 +3,7 @@ source "http://rubygems.org"
 gem "activesupport", "2.2.2"
 gem "amqp",          "0.6.7", :require => 'mq'
 gem "httparty",      "0.7.4"
-gem "json",          "~> 1.5.1"
+gem "json",          "~> 2.3.0"
 gem "mash",          "~> 0.1.1"
 gem "mime-types",    "1.15", :require => 'mime/types'
 gem "oauth",         "0.4.4"
